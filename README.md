@@ -1,4 +1,4 @@
-# nRF24L01 & DHT11 Transmitter
+# nRF24L01-Transmitter
 This Arduino code is designed to transmit temperature, humidity, and pressure data from a DHT11 sensor and BMP085 sensor via an nRF24L01 transceiver module.
 
 **Hardware Requirements**
